@@ -1,0 +1,4 @@
+embedded port is 9142 set in cu-cassandra.yml
+UserCrudRepository is only for testing, as the "application should only to save", but for testing we want also to get the record so we can check it
+
+
